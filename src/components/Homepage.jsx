@@ -44,7 +44,7 @@ function Homepage() {
       <div className="row d-flex justify-content-center" data-aos="flip-left">
       <div className="col-md-8 text-light">
       <h1>Ready to Transform Your Ideas into Reality?</h1>
-      <h6>"Whether you're looking to build a cutting-edge web application, streamline your frontend services, or bring a new digital experience to life, I'm here to help.Please Let's create something amazing together.</h6>
+      <h6>Whether you're looking to build a cutting-edge web application, streamline your frontend services, or bring a new digital experience to life, I'm here to help.Please Let's create something amazing together.</h6>
       </div>
       <div className="col-md-4 text-md-end text-sm-start ">
       <button className='orange text-light mx-3 mt-2' onClick={() => window.location.href = '/projects '}>View My Project's</button>
